@@ -9,7 +9,7 @@ Dillon Wayne Dunn
 > (540)729-6086 |
 > dwd002@lvc.edu
 
-> https://www.linkedin.com/in/dillon-dunn-972411a9/
+> https://www.linkedin.com/in/dillon-dunn/
 
 ---
 

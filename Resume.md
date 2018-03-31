@@ -84,7 +84,7 @@ August 2015 - May 2017
       - Supporting users of all levels
       - Researching, creating, and implementing solutions when unknown errors occurred
 
-Jun 2015 - August 2015
+June 2015 - August 2015
 : **Developer Intern** | Stilwell Technology and Robotics, LLC
 
     Interning at Stilwell Robotics and Technology was an experience that gave me exposure to new areas of Computer Science.  An added benefit of my summer experience was getting involved in the business development of Stilwell Robotics; I also involved with the marketing and development of the software which helped develop.  My development duties included:

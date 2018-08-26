@@ -30,7 +30,9 @@ Skills
   - Python
     - https://github.com/dillonwd6086/PlaceFinder
   - Perl
-  - Scripting (BASH, KSH)
+  - Scripting
+    - BASH
+    - KSH
   - Ability to quickly learn and use new programming languages and frameworks
 
 **Familiar Software**:

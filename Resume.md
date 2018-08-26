@@ -15,55 +15,55 @@ Dillon Wayne Dunn
 
 Profile
 ---
-Fourth year Computer Science student seeking full time employment after graduation.
+A Software Developer looking for exciting and challenging career opportunities.
 
 Skills
 ---
 
 **Programing**:
-  R, Java, C#, VB.net, C++, Python, Bash, Html/CSS, JavaScript, Markdown and Latex
+  - C++
+    - https://github.com/dillonwd6086/CrazyPacman
+  - C#
+    - https://github.com/dillonwd6086/DotnetCoin
+  - Java
+  - Python
+    - https://github.com/dillonwd6086/PlaceFinder
+  - Perl
+  - Scripting (BASH, KSH)
+  - Ability to quickly learn and use new programming languages and frameworks
 
 **Familiar Software**:
-  Unix Based Operating Systems, Microsoft Office Suite, Visual Studio, JetBrains, TexWriter, Eclipse, Sublime 3, Travis-Ci, Data Mining with WEKA, and GIT
+  - Unix, Linux and Windows
+  - Jet-brains IDEs
+  - Jenkins
+  - Clang, GCC and ACC compilers
+  - CMake
+  - Git and ClearCase
+  - Atlassian Management Software
 
 **Familiar Frameworks**:
-  Dotnet Core, FLTK, JavaEE, Jaxrs, Swagger, Android Development
-
-**Foreign Language**:
-  Intermediate Spanish and Basic German
-
-Education
----
-
-September 2014-May 2018 (Expected)
-:   **Bachelors of Computer Science | Minor: Math** | Lebanon Valley College | Annville, Pa
-
-    Related Coursework:  Multi-Variable Calculus, Discrete Mathematics, Linear Algebra, Cryptography with Coding Theory, Programming in Java, Computer Architecture, Software Design and Data Structure with C++, Data Mining Techniques
-
-    Acknowledgements and Awards
-
-      - Vickroy Scholarship Recipient
-      - ACM-ICPC Collegiate Programming Competition Participant
-      - Middle Atlantic Conference - Academic Honor Roll
-
-    Extra-Curricular
-
-      - Varsity Lacrosse
-      - Lebanon Valley Competitive Programming Team
-      - Mathematics and Computer Science Peer Tutor
-
-July 2017 - October 2017
-:   **Semester Abroad** | University of Wakaito | Hamilton, New Zealand
-
-    Related Coursework: Practical Applications of Data Mining and Machine Learning
-
-      - Completed 16 credit semester while traveling and gaining an understanding of how business is conducted across cultures
-      - Studied related coursework and developed Data Mining and Machine Learning skills
+  - Dotnet Core
+  - FLTK
+  - JavaEE and Jaxrs
+  - Swagger
+  - Xamerin
+  - Boost.Test
 
 Experience
 ---
 
-May 2017 - Present
+June 2018 - Current
+:   **Associate Developer/Systems Engineer** | SWIFT
+
+    As a Systems Engineer for SWIFT I was brought into a team which maintains a legacy production application.  During my time at swift I participated in my teams transition to AGILE and aided in maintenance and development of a number of internal and external tools.  Some of my accomplishments there were:
+
+      - Maintaining a series of development servers on both Unix and Red Hat Enterprise linux
+      - Implementing production features using C++
+      - Planning and Implementing a Unit Testing procedure incorporating Boost.Test
+      - Development of internal tools using Python and Perl
+
+
+May 2017 - December 2017
 :   **Application Developer Intern** | Listrak
 
     As an Application Developer at Listrak, I was given the opportunity to become integrated member of an AGILE development team.  This enhanced my ability to multi-task and handle dynamic workloads.  In addition, I was able to participate in on the job training;  these courses introduced me to management techniques and new technologies.   My responsibilities include:
@@ -112,6 +112,34 @@ June 2014 - July 2015
       - Installing club management software for multiple franchise locations
       - Managing corporate and individual accounts
       - Managing local marketing campaigns
+
+Education
+---
+
+September 2014-May 2018
+:   **Bachelors of Computer Science | Minor: Math** | Lebanon Valley College | Annville, Pa
+
+    Related Coursework:  Multi-Variable Calculus, Discrete Mathematics, Linear Algebra, Cryptography with Coding Theory, Programming in Java, Computer Architecture, Software Design and Data Structure with C++, Data Mining Techniques
+
+    Acknowledgements and Awards
+
+      - Vickroy Scholarship Recipient
+      - ACM-ICPC Collegiate Programming Competition Participant
+      - Middle Atlantic Conference - Academic Honor Roll
+
+    Extra-Curricular
+
+      - Varsity Lacrosse
+      - Lebanon Valley Competitive Programming Team
+      - Mathematics and Computer Science Peer Tutor
+
+July 2017 - October 2017
+:   **Semester Abroad** | University of Wakaito | Hamilton, New Zealand
+
+    Related Coursework: Practical Applications of Data Mining and Machine Learning
+
+      - Completed 16 credit semester while traveling and gaining an understanding of how business is conducted across cultures
+      - Studied related coursework and developed Data Mining and Machine Learning skills
 
 ---
 

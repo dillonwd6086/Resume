@@ -21,6 +21,7 @@ Skills
 ---
 
 **Programing**:
+
   - C++
     - https://github.com/dillonwd6086/CrazyPacman
   - C#
@@ -33,6 +34,7 @@ Skills
   - Ability to quickly learn and use new programming languages and frameworks
 
 **Familiar Software**:
+
   - Unix, Linux and Windows
   - Jet-brains IDEs
   - Jenkins
@@ -42,6 +44,7 @@ Skills
   - Atlassian Management Software
 
 **Familiar Frameworks**:
+
   - Dotnet Core
   - FLTK
   - JavaEE and Jaxrs

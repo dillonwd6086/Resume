@@ -109,15 +109,6 @@ June 2014 - July 2015
       - Creating a working prototype
       - Launching various fund-raising campaigns to generate capital
 
-  September 2012 - August 2015
-  : **Sales Consultant** | Gold's Gym, Culpeper Location
-
-    During my three years at Gold's Gym, I became a confident and outgoing employee by developing skills and an understanding of the day-to-day requirements necessary to be successful in a business environment.  My tasks at Gold's Gym included the following:
-
-      - Installing club management software for multiple franchise locations
-      - Managing corporate and individual accounts
-      - Managing local marketing campaigns
-
 Education
 ---
 
